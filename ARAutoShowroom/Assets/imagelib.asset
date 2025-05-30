@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: imagelib
   m_EditorClassIdentifier: 
-  m_GuidLow: 0
-  m_GuidHigh: 0
+  m_GuidLow: 4897434786422172891
+  m_GuidHigh: 5282955879335508147
   m_DataStore:
     m_Storage: []
   m_Images:
@@ -21,9 +21,19 @@ MonoBehaviour:
       m_GuidLow: 5637382984960503276
       m_GuidHigh: 5541696732541841839
     m_SerializedTextureGuid:
-      m_GuidLow: 0
-      m_GuidHigh: 0
+      m_GuidLow: 3334047763544324500
+      m_GuidHigh: 17085392918394341705
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: 
+    m_Name: chevrolet-logo-emblem-png-image-701751694713268nqpyixtxkk
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5079674341801396247
+      m_GuidHigh: 16906878554333462406
+    m_SerializedTextureGuid:
+      m_GuidLow: 10818907881708280183
+      m_GuidHigh: 4115159698610438778
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chevrolet-logo-emblem-png-image-701751694713268nqpyixtxkk - Copy
     m_Texture: {fileID: 0}
